@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\StaticKeywordExercise.exe.config
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\StaticKeywordExercise.exe
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\StaticKeywordExercise.pdb
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.exe
+C:\Users\Damion\source\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.pdb
